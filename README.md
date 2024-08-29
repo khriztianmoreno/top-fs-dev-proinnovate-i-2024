@@ -8,7 +8,7 @@
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 
-- Estudiante 1
+- [Cristian Moreno](profiles/cristian-moreno.md)
 - Estudiante 2
 - Estudiante 3
 - ...
